@@ -93,12 +93,4 @@
 }.right-head i:hover{
     color:rgb(0, 0, 0);
     background-color: white;
-}footer{
-    position: absolute;
-    bottom:0px;
-    left:40%;
-    font-size: 14px;
-    font-style: italic;
-    font-family: 'Gill Sans',sans-serif;
-    color:rgb(255, 255, 255);
 }
